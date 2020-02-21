@@ -11,7 +11,7 @@ held at the **[EITN Spring School on Computational Neuroscience](https://springs
 [Gorka Zamora-López](http://www.zamora-lopez.xyz) (Center for Brain and Cognition, Pompeu Fabra University) 
 
 
-#### Summary
+#### Summaries
 In this tutorial we will walk through the principles of large-scale connectivity in the brain. The conceptual differences between structural connectivity, functional connectivity and effective connectivity will be elucidated. Finally, the basic tools to study connectivity will be illustrated, which are based on graph theory and complex networks. The tutorial includes both a theoretical part and hands-on exercises.
 
 
